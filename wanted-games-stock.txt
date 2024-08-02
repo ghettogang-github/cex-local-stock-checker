@@ -39,9 +39,3 @@ sps1g627ab, Gateshead Trinity Square
 5902385108461, Newcastle Grainger St
 3391891976442, Sunderland
 3391891976442, Newcastle Upon Tyne
-5030930059781, Ilford
-5030930054151, Wimbledon
-5030930054151, Ilford
-slegps2s1628b, Wimbledon
-slegps2s1628b, Ilford
-slegps2s1053b, Wimbledon
